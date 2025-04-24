@@ -10,3 +10,5 @@ This face recognition web app is integrated with machine learning model. Here us
 
 ### Deployment
 ![image](https://user-images.githubusercontent.com/75901421/184639715-7b4ba26c-6fb8-4157-8819-233b06dedb77.png)
+
+pip install -r /path/to/requirements.txt
